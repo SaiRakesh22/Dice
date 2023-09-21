@@ -7,11 +7,10 @@
 .dice {
   text-align: center;
   display: inline-block;
-
 }
 
 body {
-  background-color: #393E46;
+  background-image: url(https://c4.wallpaperflare.com/wallpaper/595/45/196/rolling-dice-wallpaper-preview.jpg);
 }
 
 h1 {
@@ -22,10 +21,17 @@ h1 {
   color: #4ECCA3;
 }
 
+
 p {
   font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
+  
+}
+
+#refresh{
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 0;
 }
 
 img {
@@ -41,6 +47,8 @@ footer {
 }
 
 .in{
+  margin-top: 0;
+  margin-bottom: 0;
   margin-right: 1rem;
   display:inline-block;
 }
