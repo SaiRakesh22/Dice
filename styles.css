@@ -39,3 +39,16 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.in{
+  margin-right: 1rem;
+  display:inline-block;
+}
+
+.btn{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+  border-radius: 18px;
+  background-color:#393E46; 
+  color: #4ECCA3;
+}

@@ -15,3 +15,7 @@ else if(src1<src2){
 else {
     document.querySelector("h1").textContent = "Draw!";
 }
+function myFunction() {
+    var copyText = "https://sairakesh22.github.io/Dice/";
+    navigator.clipboard.writeText(copyText);
+}
